@@ -6,6 +6,15 @@ O sistema é projetado para ser utilizado em campo, permitindo que informações
   <img width="500" alt="Captura de tela 2025-11-28 213406" src="https://github.com/D4n1el20/ImagensProjetoAPIFinancas/blob/main/Tela%20de%20Login.png" />
 </div>
 
+# 👨‍💻 Contribuidores
+<div align="center">
+
+| [<img src="https://github.com/user-attachments/assets/0726c540-171f-4bf7-ab6f-a24328f39072?v=4" width="100" height="100" style="border-radius:50%">](https://github.com/CaioCordeiroo) | [<img src="https://avatars.githubusercontent.com/u/169162345?v=4" width="100" height="100" style="border-radius:50%">](https://github.com/D4n1el20) | [<img src="https://github.com/CaioCordeiroo/banco_de_imagens_e_videos/blob/5c5e552cf4475b8507c450177bca15532f2490db/169167753.png?v=4" width="100" height="100" style="border-radius:50%">](https://github.com/felipevieiramendes) | [<img src="https://github.com/CaioCordeiroo/banco_de_imagens_e_videos/blob/5c5e552cf4475b8507c450177bca15532f2490db/p.png?v=4" width="100" height="100" style="border-radius:50%">](https://github.com/pep287) | [<img src="https://github.com/CaioCordeiroo/banco_de_imagens_e_videos/blob/dcf8f1711ffe874b422a81c57d7cf538e4c30f31/t.png?v=4" width="100" height="100" style="border-radius:50%">](https://github.com/TheoVm) |
+|:--:|:--:|:--:|:--:|:--:|
+| *Caio Cordeiro* | *Daniel Silva* | *Felipe Mendes* | *Pedro Mota* | *Theo Vieira* |
+
+
+
 # 🔬 Funcionalidades do projeto 
 ⚗️ **1. CRIAÇÃO DE PROJETOS** <br>
 A plataforma dispõe de um sistema completo para a criação, organização e utilização de novos projetos.
