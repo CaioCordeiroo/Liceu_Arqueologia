@@ -5,7 +5,7 @@ O sistema é projetado para ser utilizado em campo, permitindo que informações
 # 🔬 Funcionalidades do projeto
 
 <div align="center">
-  <img width="800" alt="Captura de tela 2025-11-28 213406" src="https://github.com/D4n1el20/ImagensProjetoAPIFinancas/blob/main/Tela%20de%20Login.png" />
+  <img width="500" alt="Captura de tela 2025-11-28 213406" src="https://github.com/D4n1el20/ImagensProjetoAPIFinancas/blob/main/Tela%20de%20Login.png" />
 </div>
 
 
