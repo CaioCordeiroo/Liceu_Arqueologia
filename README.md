@@ -19,13 +19,13 @@ O usuário possui a capacidade de especificar os detalhes do projeto no momento 
   <img width="500" alt="Captura de tela 2025-11-28 213406" src="https://github.com/D4n1el20/ImagensProjetoAPIFinancas/blob/main/Cria%C3%A7%C3%A3o%20area%20nova%20de%20escava%C3%A7%C3%A3o.png" />
 </div>
 
-**3)ZOOM FACILITADOR**
+**3) ZOOM FACILITADOR**
 O sistema permite que o usuário ajuste o nível de zoom da área do projeto, facilitando sua visualização.
 <div align="center">
   <img width="500" alt="Captura de tela 2025-11-28 213406" src="https://github.com/D4n1el20/ImagensProjetoAPIFinancas/blob/main/Captura%20de%20tela%202025-12-01%20083021.png" />
 </div>
 
-**4)ETIQUETAS**
+**4) ETIQUETAS**
 O usuário pode utilizar etiquetas para classificar áreas específicas do projeto, facilitando a organização das informações.
 Essas etiquetas são personalizáveis e podem incluir dados extras para aprofundar a descrição de cada área.
 <div align="center">  
