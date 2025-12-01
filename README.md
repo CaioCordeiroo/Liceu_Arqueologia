@@ -41,7 +41,7 @@ O sistema permite que o usuário ajuste o nível de zoom da área do projeto, fa
 <br>
 
 📑 **4. ETIQUETAS:**
-O usuário pode utilizar etiquetas para classificar áreas específicas do projeto, facilitando a organização das informações. <br>
+O usuário pode utilizar etiquetas para classificar áreas específicas do projeto, facilitando a organização das informações.
 Essas etiquetas são personalizáveis e podem incluir dados extras para aprofundar a descrição de cada área.
 <div align="center">  
   <img width="500" alt="Captura de tela 2025-11-28 213406" src="https://github.com/D4n1el20/ImagensProjetoAPIFinancas/blob/main/Tela%20do%20quadrado%20especifico.png" />
