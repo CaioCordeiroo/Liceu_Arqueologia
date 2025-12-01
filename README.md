@@ -7,9 +7,10 @@ O sistema é projetado para ser utilizado em campo, permitindo que informações
 **LOGIN**
 <div align="center">
   <img width="500" alt="Captura de tela 2025-11-28 213406" src="https://github.com/D4n1el20/ImagensProjetoAPIFinancas/blob/main/Tela%20de%20Login.png" />
+
+
+
 </div>
-
-
 **CRIAÇÃO DE PROJETOS**
 <div align="center">
   <img width="500" alt="Captura de tela 2025-11-28 213406" src="https://github.com/D4n1el20/ImagensProjetoAPIFinancas/blob/main/Captura%20de%20tela%202025-12-01%20083613.png" />
@@ -34,7 +35,7 @@ O sistema permite que o usuário ajuste o nível de zoom da área do projeto, fa
 
 
 
-**ETIQUETAS **
+**ETIQUETAS**
 <div align="center">  
   <img width="500" alt="Captura de tela 2025-11-28 213406" src="https://github.com/D4n1el20/ImagensProjetoAPIFinancas/blob/main/Tela%20do%20quadrado%20especifico.png" />
 </div>
