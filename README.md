@@ -17,6 +17,7 @@ O sistema é projetado para ser utilizado em campo, permitindo que informações
 
 # 🔬 Funcionalidades do projeto 
 ⚗️ **1. CRIAÇÃO DE PROJETOS:** 
+<br>
 🧪 **. Diagrama:**
 Diagrama guiando como o programa deve funcionar esta no link:[📄Link para o Canva](https://www.canva.com/design/DAG1by7sao8/s8fswB0WtQV45PrH30zFrg/edit).
 <br>
